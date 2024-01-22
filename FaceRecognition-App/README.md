@@ -30,20 +30,20 @@ $ python app-gui.py
 # APP GUI
 
 ### Home Page
-![homepage](https://i.ibb.co/c62qvR2/home-page.png)
+![homepage]
 
 ### Add a User <br>
 Add the user you want to train a classifier for <br>
-![page1](https://i.ibb.co/t8gdq6s/adduser.png)<br>
+![page1]<br>
 
 
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
-![page2](https://i.ibb.co/D8JgYhN/capandtraindata.png)<br>
+![page2]<br>
 
 ### Users List<br>
 List of all the users<br>
-![page3](https://i.ibb.co/1KwfVVV/dropdown.png)<br>
+![page3]<br>
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
