@@ -6,4 +6,4 @@ for char in input_str:
     if char not in vowels:
         rslt+=char
         
-print(rslt)
+print("Result:",rslt)
